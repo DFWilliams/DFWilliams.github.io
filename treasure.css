@@ -1,0 +1,177 @@
+*{
+    font-family: 'Rubik Moonrocks', cursive;
+}
+h1{
+    color:#7C9865;
+    font-size: 45px;
+    
+}
+
+h2{
+    color:#7C9865;
+    
+}
+
+h3{
+    color: #7C9865;
+   
+
+}
+
+img{
+    height: 100px
+}
+
+ul{ 
+    list-style-type: none;
+  }
+
+body{
+    background-image:url(https://images.unsplash.com/photo-1629012442785-7b61081374f5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8em9tYmllJTIwYXBvY2FseXBzZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60);
+    background-size:cover;
+    text-align: center;
+    color: #4B4433 ;
+    size:16px
+}
+.green{color:rgb(11, 128, 0)}
+
+.game{
+    margin-left: 96px
+
+}
+table{
+
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color:black;
+    font-size: 50px;
+    animation-duration: 5s;
+    animation-name: fade-in;
+}
+@keyframes fade-in{
+    from {
+        margin-left: 100%;
+        width: 300%;
+      }
+      to {
+        margin-left: 0%;
+        width: 100%;
+      }
+}
+/* button:hover{
+    color: aqua;
+    background-color: brown;
+    font-size: 15px;
+} */
+
+.space1{
+    background-image: url(https://images.unsplash.com/photo-1512420502149-ebd993111c3d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YWJhbmRvbmVkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1600&q=60);
+    background-size: 200px;
+    background-color: brown
+    
+}
+.space1:hover{
+    opacity: 75%
+}
+.space2{
+    background-image: url(https://images.unsplash.com/photo-1520996729250-7d888a835cc4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YWJhbmRvbmVkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1600&q=60);
+    background-size: 200px;
+    background-color: brown
+    
+}
+.space2:hover{
+    opacity: 75%
+}
+.space3{
+    background-image: url(https://images.unsplash.com/photo-1516552335949-d1e27f71ca8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YWJhbmRvbmVkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1600&q=60);
+    background-size: 200px;
+    background-color: brown
+}
+.space3:hover{
+    opacity: 75%
+}
+.space3{
+    background-image: url(https://images.unsplash.com/photo-1516552335949-d1e27f71ca8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YWJhbmRvbmVkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1600&q=60);
+    background-size: 200px;
+    background-color: brown
+}
+.space3:hover{
+    opacity: 75%
+}
+.space4{
+    background-image: url(https://images.unsplash.com/photo-1572786560759-09135e941a26?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGFiYW5kb25lZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60);
+    background-size: 200px;
+    background-color: brown
+}
+.space4:hover{
+    opacity: 75%
+}
+.space5{
+    background-image: url(https://images.unsplash.com/photo-1604919881216-86e65c0faf15?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzB8fGFiYW5kb25lZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60);
+    background-size: 90px;
+    background-color: brown
+}
+.space5:hover{
+    opacity: 75%
+}
+.space6{
+    background-image: url(https://images.unsplash.com/photo-1484319047745-8312fb87003c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGFiYW5kb25lZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60);
+    background-size: 200px;
+    background-color: brown
+}
+.space6:hover{
+    opacity: 75%
+}
+.space7{
+    background-image: url(https://images.unsplash.com/photo-1515890777364-a67aae184119?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjN8fGFiYW5kb25lZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60);
+    background-size: 200px;
+    background-color: brown
+}
+.space7:hover{
+    opacity: 75%
+}
+.space8{
+    background-image: url(https://images.unsplash.com/photo-1488523811425-75699793b3e5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTJ8fGFiYW5kb25lZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60);
+    background-size: 200px;
+    background-color: brown
+}
+.space8:hover{
+    opacity: 75%
+}
+.space9{
+    background-image: url(https://images.unsplash.com/photo-1453967854176-7e6e8270b0b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODF8fGFiYW5kb25lZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60);
+    background-size: 200px;
+    background-color: brown
+}
+.space9:hover{
+    opacity: 75%
+}
+
+div {
+  display: inline-table;
+  align-items: center; font-size: 34px
+}
+td {
+  background-color: lightblue;
+  font-size: 100px;
+  
+
+}
+td:hover {
+  color: red;
+  background-color: green
+}
+a:hover{
+  color: aqua;
+  background-color: black;
+  font-size: 15px;
+}
+
+li{
+  font-size:18px
+}
+table {
+  table-layout: fixed;
+  width: 450px;
+}
